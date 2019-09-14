@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2441988,
+          -75.6512525
+        ]
+      },
+      "properties": {
+        "name": "Medellín, Antioquia, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.887132,
+          -76.3090185
+        ]
+      },
+      "properties": {
+        "name": "Norfolk, VA, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1199599,
+          -80.1468304
+        ]
+      },
+      "properties": {
+        "name": "Fort Lauderdale, FL, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.894020,
+          -77.068860
+        ]
+      },
+      "properties": {
+        "name": "Washington, DC, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.016514,
+          -105.281636
+        ]
+      },
+      "properties": {
+        "name": "Boulder, CO, USA"
+      }
+    }
+  ]
+}
